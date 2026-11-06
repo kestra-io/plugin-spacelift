@@ -1,10 +1,10 @@
 {
-  "name": "plugin-template",
+  "name": "plugin-spacelift",
   "build": {
     "context": ".",
     "dockerfile": "Dockerfile"
   },
-  "workspaceFolder": "/workspaces/plugin-template",
+  "workspaceFolder": "/workspaces/plugin-spacelift",
   "forwardPorts": [8080],
   "customizations": {
     "vscode": {
